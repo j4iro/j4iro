@@ -18,16 +18,18 @@
 [<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][expressjs]
+[<img alt="MongoDB" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
+[<img alt="Php" width="68" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][php]
+[<img alt="Mysql" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visual studio]
 [<img alt="ESLint" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][eslint]
 [<img alt="Git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
 [<img alt="GitHub" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-## 📃 Latest Blog Posts
+## 📃 Portfolio and blog
 
-<!-- BLOG-POST-LIST:START -->
-
-- [This is my first post](https://j4iro.com/de-windows-a-ubuntu-20_04-guia/)
+- [j4iro.com](https://j4iro.com/)
 
 ## 📊 Stats
 
@@ -39,7 +41,11 @@
 [html]: https://github.com/search?q=html
 [css]: https://github.com/search?q=css
 [javascript]: https://github.com/search?q=javascript
-[node]: https://nodejs.org/en/
+[node]: https://nodejs.org/
+[expressjs]: https://expressjs.com/
+[mongodb]: https://www.mongodb.com/
+[php]: https://www.php.net/
+[mysql]: https://www.mysql.com/
 [visual studio]: https://code.visualstudio.com/
 [eslint]: https://eslint.org/
 [git]: https://git-scm.com/
