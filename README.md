@@ -11,7 +11,7 @@
 
 ## 💬 Contact
 
-[<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="LinkedIn" width="40" height="40" src="https://img.icons8.com/android/48/4a90e2/linkedin.png" />][linkedin]
 
 ## 🛠 Languages and Tools
 
@@ -27,9 +27,7 @@
 [<img alt="Git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
 [<img alt="GitHub" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-## 📃 Portfolio and blog
-
-- [j4iro.com](https://j4iro.com/)
+## 📃 Portfolio and blog 👉 [j4iro.com](https://j4iro.com/)
 
 ## 📊 Stats
 
