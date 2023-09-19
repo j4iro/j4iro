@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer with focus on the backend
 
-- 🔭 I’m currently working at **Securitec**
+- 🔭 I’m currently working at **Compara Online**
 - 🌱 I’m currently learning as much i can
 <!--
 - 😄 Pronouns: enthusiast, optimistic, creative
